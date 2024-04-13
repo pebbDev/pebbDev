@@ -2,6 +2,12 @@
 
 ![Banner](https://github.com/pebbDev/pebbDev/blob/main/Banner%20(1).png)
 
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FEBRIYADI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/febriyadi-)
+[![Instagram](https://img.shields.io/badge/Instagram-@mhmd_febriyadi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mhmd_febriyadi)
+
+
+
 ## Tech Stack:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-F58612?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
