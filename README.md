@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FEBRIYADI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/febriyadi-)
 [![Instagram](https://img.shields.io/badge/Instagram-@mhmd_febriyadi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mhmd_febriyadi)
 
-
-
 ## Tech Stack:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-F58612?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
@@ -19,6 +17,11 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
+## Github Stats
+<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=pebbDev&hide_border=true&theme=radical"> |<img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pebbDev&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="febriyadi's Most Used Language"> 
+| ------------- | ------------- |  
+
 
 ---
 <img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
