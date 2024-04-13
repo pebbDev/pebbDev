@@ -1,4 +1,4 @@
-## ![Frame 3](https://github.com/pebbDev/pebbDev/blob/main/myLogo.png) Hi, My Name is Febriyadi 👋
+## ![Frame 3](https://github.com/pebbDev/pebbDev/blob/main/myLogo.png) Hi, My Name is Febriyadi [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">](https://fachridantm.github.io/)
 
 ![Banner](https://github.com/pebbDev/pebbDev/blob/main/Banner%20(1).png)
 
@@ -19,3 +19,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
+---
+<img align="center" src="https://github.com/fachridantm/fachridantm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
