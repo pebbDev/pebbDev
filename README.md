@@ -8,7 +8,7 @@
 
 ## Tech Stack:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-F58612?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-754DE9?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Jetpack Compose](https://img.shields.io/badge/Compose-083042?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-4285F5?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-47C5FB?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
