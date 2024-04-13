@@ -8,6 +8,6 @@
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-4479A1?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/Dart-82F4EB?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
-[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
+[![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
